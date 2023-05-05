@@ -1,4 +1,4 @@
-// Java program to find a pair with a given sum in a sorted and rotated array
+//Java program to find a pair with a given sum in a sorted and rotated array
 
 import java.io.*;
  
