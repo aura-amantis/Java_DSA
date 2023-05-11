@@ -1,4 +1,4 @@
-/* #####################   Code to implement Next Permutation (leetcode)   ########################
+/* #####################   Code to implement Next Permutation (leetcode #31)  ########################
 
 A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
 
