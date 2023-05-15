@@ -1,6 +1,6 @@
 // JAVA Code For Chocolate Distribution Problem
 
-/*          Approach for Chocolate Distribution Problem. 
+/* Approach for Chocolate Distribution Problem. 
 
 The idea is based on the observation that to minimize the difference, we must choose 
 consecutive elements from a sorted packet. We first sort the array arr[0..n-1], then 
