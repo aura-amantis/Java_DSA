@@ -1,12 +1,10 @@
 // iterative java program to reverse an array
 
 public class Reverse_arr {
-     
      static void rvereseArray(int arr[],
                      int start, int end)
      {
          int temp;
-           
          while (start < end)
          {
              temp = arr[start];
